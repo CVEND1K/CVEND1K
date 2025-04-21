@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Привіт! 👋 Мене звати [Ілля]</h1>
+<p align="center">
+  Я розробник, який захоплюється [веб-розробками, мовою Python].
+</p>
 
-<!--
-**CVEND1K/CVEND1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🛠️ **Технології та інструменти:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📈 **GitHub статистика:**
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=CVEND1K&show_icons=true&theme=tokyonight)
+
+
+---
+
+📫 **Як зі мною зв’язатися:**
+- Telegram: 
+- Email: [cer.pop.ty@gmail.com](cer.pop.ty@gmail.com)
+
+---
+
+⭐️ Дякую, що завітав!  
